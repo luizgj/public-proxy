@@ -1,0 +1,14 @@
+{
+    "_service_name": "template_api",
+    "proxy_port": "8080",
+    "route": "/api",
+    "service_address": "localhost",
+    "service_port": "8000",
+    "jaeger_address": "localhost",
+    "jaeger_port": "9411",
+    "call_another_service": ["yes", "no"],
+    "external_service_name": "external_service",
+    "egress_port": "8090",
+    "external_service_address": "localhost",
+    "external_service_port": "8001"
+}

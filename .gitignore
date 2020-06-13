@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+*.pyc
+venv
+docs/build/
+logs/*.log
+.pytest_cache/
+.cache/
+cherrypy_app.py
+utils/config.json
+
